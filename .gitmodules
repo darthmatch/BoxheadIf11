@@ -1,0 +1,3 @@
+[submodule "jquery"]
+	path = jquery
+	url = git@github.com:darthmatch/Objected2D.git
